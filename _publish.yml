@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "8feb34cb-bd4f-4ef4-83fb-b4563be3c2f7"
+      url: "https://singular-bavarois-927d7a.netlify.app/"
