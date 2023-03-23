@@ -1,5 +1,10 @@
 project:
-  type: website
+  type: 
+    website
+    
+execute:
+  freeze:
+    auto
 
 website:
   title: "quarto-website"
