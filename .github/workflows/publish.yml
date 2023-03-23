@@ -8,6 +8,7 @@ name: Quarto Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    container: hadrilec/quarto-website:latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v2 
