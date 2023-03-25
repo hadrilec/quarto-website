@@ -13,10 +13,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - gdp.qmd
+      - examples/gdp.qmd
       - text: "More"
         menu: 
-          - href: deaths.qmd
+          - href: examples/deaths.qmd
 
 format:
   html:
