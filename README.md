@@ -5,5 +5,6 @@ testing quarto
 
 ```
 quarto render
+quarto preview
 
 ```
